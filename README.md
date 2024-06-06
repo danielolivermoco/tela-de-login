@@ -15,7 +15,7 @@ Formulário de Login Intuitivo: A tela de login apresenta um formulário simples
 
 * Contribuições são bem-vindas, sinta-se à vontade para Clonar o repositório ou enviar Pull request.
 
-## Deploy 🌐 =>  https://danielolivermoco.github.io/tela-de-login/
+## Website 🌐➡️ https://danielolivermoco.github.io/tela-de-login/
 <br>
 <br>
 <img src="./img/tela-de-login.png">
